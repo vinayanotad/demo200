@@ -1,1 +1,1 @@
-print("successfull entry to github")
+print("successfull entry to Github account")
