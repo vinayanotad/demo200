@@ -1,2 +1,3 @@
 print(" PYTHON")
-print("Vinaya")
+print("Vinay")
+
