@@ -1,2 +1,2 @@
 print(" PYTHON")
-print("welcome to Python programmimg")
+print("Vinaya")
